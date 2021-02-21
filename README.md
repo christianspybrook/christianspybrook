@@ -9,4 +9,6 @@ Hyperlinks will be added after each tool to guide you to notebooks, where you ca
 Hopefully, this will help to guide you to the specific areas of machine learning that most intersest you.  
 
 Here is an example of where I am heading with this...  
-- Tensorflow: [lstm_model_exploration_nb](https://github.com/christianspybrook/lstm_sentiment_analysis/blob/master/lstm_model_exploration/lstm_model_exploration_nb/lstm_model_exploration.ipynb)
+- Tensorflow: [lstm_model_exploration_nb](https://github.com/christianspybrook/lstm_sentiment_analysis/blob/master/lstm_model_exploration/lstm_model_exploration_nb/lstm_model_exploration.ipynb)  
+
+More to come...
