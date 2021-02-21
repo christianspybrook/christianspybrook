@@ -1,6 +1,6 @@
 ### Welcome to my Github profile page.
 
-I am passionately working on developing Deep Learning projects.
+I am passionately working on developing Deep Learning projects.  
 My learning focus has been drawn to both Natural Language Processing and Computer Vision.
 
 Please bear with me, as this header will be a work in progress.
