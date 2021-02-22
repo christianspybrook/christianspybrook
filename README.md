@@ -9,6 +9,6 @@ Hyperlinks will be added after each tool to guide you to notebooks, where you ca
 Hopefully, this will help to guide you to the specific areas of machine learning that most intersest you.  
 
 Here is an example of where I am heading with this...  
-- Tensorflow: [LSTM Model Exploration](https://github.com/christianspybrook/lstm_sentiment_analysis/blob/master/lstm_model_exploration/lstm_model_exploration_nb/lstm_model_exploration.ipynb)  
+- Tensorflow: [LSTM Model Exploration](https://github.com/christianspybrook/lstm_sentiment_analysis/blob/master/lstm_model_exploration/lstm_model_exploration_nb/lstm_model_exploration.ipynb), [MLP from Scratch](https://github.com/christianspybrook/springboard/blob/master/projects/model_logging.py)  
 
 More to come...
