@@ -10,6 +10,6 @@ Hopefully, this will help to guide you to the specific areas of machine learning
 
 Here is an example of where I am heading with this...  
 - Random Forest Classifier: [User Engagement Analysis](https://github.com/christianspybrook/springboard/blob/master/projects/relax_challenge.ipynb)
-- Tensorflow: [LSTM Model Exploration](https://github.com/christianspybrook/lstm_sentiment_analysis/blob/master/lstm_model_exploration/lstm_model_exploration_nb/lstm_model_exploration.ipynb), [MLP from Scratch](https://github.com/christianspybrook/springboard/blob/master/projects/model_logging.py)  
+- Tensorflow: [LSTM Optimization](https://github.com/christianspybrook/lstm_sentiment_analysis/blob/master/lstm_model_exploration/lstm_model_exploration_nb/lstm_model_exploration.ipynb), [MLP from Scratch](https://github.com/christianspybrook/springboard/blob/master/projects/model_logging.py)  
 
 More to come...
