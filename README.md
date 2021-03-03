@@ -9,8 +9,9 @@ Hyperlinks will be added after each tool to guide you to notebooks, where you ca
 Hopefully, this will help to guide you to the specific areas of machine learning that most intersest you.  
 
 Here is an example of where I am heading with this...  
-- Hyperopt: [Bayesian Hyperparameter Optimizer](https://github.com/christianspybrook/movie_actor_tree_ensembles/blob/master/xgboost/capstone2_xgb_regressor_optimized_target.ipynb)
+- Hyperopt: [Bayesian Hyperparameter Optimization](https://github.com/christianspybrook/movie_actor_tree_ensembles/blob/master/xgboost/capstone2_xgb_regressor_optimized_target.ipynb)  
 - Random Forest Classifier: [User Engagement Analysis](https://github.com/christianspybrook/springboard/blob/master/user_engagement_feature_importance/relax_challenge.ipynb)
 - Tensorflow: [LSTM Optimization](https://github.com/christianspybrook/lstm_sentiment_analysis/blob/master/lstm_model_exploration/lstm_model_exploration_nb/lstm_model_exploration.ipynb), [MLP from Scratch](https://github.com/christianspybrook/springboard/blob/master/game_sales_tensorflow/tf_logging.py)  
+- XGBoost: [Model Selection](https://github.com/christianspybrook/movie_actor_tree_ensembles/blob/master/xgboost/capstone2_xgb_regressor_optimized_target.ipynb), [Out-of-Sample Forecast](https://github.com/christianspybrook/movie_actor_tree_ensembles/blob/master/predictions/capstone2_predict_by_year.ipynb), [Target Optimization](https://github.com/christianspybrook/movie_actor_tree_ensembles/blob/master/data_wrangling/capstone2_optimize_target.ipynb)
 
 More to come...
