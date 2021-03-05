@@ -6,7 +6,7 @@ My learning focus has been drawn to both Natural Language Processing and Compute
 Please bear with me, as this header will be a work in progress.  
 My goal is to have it serve as an index of the ML tools used in my projects.  
 Hyperlinks will be added after each tool to guide you to notebooks, where you can see how I used them.  
-Hopefully, this will help to guide you to the specific areas of machine learning that most interests you.  
+Hopefully, this will help to guide you to the specific areas of machine learning that most interest you.  
 
 Here is an example of where I am heading with this...  
 - Hyperopt: [Bayesian Hyperparameter Optimization](https://github.com/christianspybrook/movie_actor_tree_ensembles/blob/master/xgboost/capstone2_xgb_regressor_optimized_target.ipynb) 
