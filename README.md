@@ -10,8 +10,9 @@ Hopefully, this will help to guide you to the specific areas of machine learning
 
 Here is an example of where I am heading with this...  
 - Hyperopt: [Bayesian Hyperparameter Optimization](https://github.com/christianspybrook/movie_actor_tree_ensembles/blob/master/xgboost/capstone2_xgb_regressor_optimized_target.ipynb) 
-- Naive Bayes Classifier: [Movie Critic Rating](https://github.com/christianspybrook/springboard/blob/master/critic_reviews_naive_bayes/naive_bayes_project.ipynb) 
+- Naive Bayes Classifier: [Movie Critic Review](https://github.com/christianspybrook/springboard/blob/master/critic_reviews_naive_bayes/naive_bayes_project.ipynb) 
 - Random Forest Classifier: [User Engagement Analysis](https://github.com/christianspybrook/springboard/blob/master/user_engagement_feature_importance/relax_challenge.ipynb)
+- Sentimant Analysis: [Movie Critic Review](https://github.com/christianspybrook/springboard/blob/master/critic_reviews_naive_bayes/naive_bayes_project.ipynb)
 - Tensorflow: [LSTM Optimization](https://github.com/christianspybrook/lstm_sentiment_analysis/blob/master/lstm_model_exploration/lstm_model_exploration_nb/lstm_model_exploration.ipynb), [MLP (Low Level Code)](https://github.com/christianspybrook/springboard/blob/master/game_sales_tensorflow/tf_logging.py)  
 - XGBoost: [Model Selection](https://github.com/christianspybrook/movie_actor_tree_ensembles/blob/master/xgboost/capstone2_xgb_regressor_optimized_target.ipynb), [Out-of-Sample Forecast](https://github.com/christianspybrook/movie_actor_tree_ensembles/blob/master/predictions/capstone2_predict_by_year.ipynb), [Target Optimization](https://github.com/christianspybrook/movie_actor_tree_ensembles/blob/master/data_wrangling/capstone2_optimize_target.ipynb)
 
